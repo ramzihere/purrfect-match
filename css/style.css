@@ -1,0 +1,38 @@
+/*i{
+	font-family: fontawesome;
+	font-size: normal;
+}*/
+html{
+	height: 100%;
+}
+body{
+	background: url(../images/bg-image.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Libre Baskerville', serif !important;
+}
+.navbar.navbar-light{
+	padding-right: 20px;
+	padding-left: 20px;
+	font-weight: 700;
+}
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+h1, h3{
+	color: white;
+}
+.col, #content hr{
+	color: white;
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+}
+.col, #content h1{
+	font-weight: 700px !important;
+	font-size: 2.5em;
+}
+img{
+	height: 40px;
+	width: 10px;
+}
